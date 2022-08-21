@@ -1,10 +1,12 @@
 # Major Historic Events
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+This webiste explores historic global events that shaped our planet!
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+The site aims to provide a reliable, evidence-based, source for scientific information related to major events from our past. Some information may be controversial but any data provided is from reliable sources such as scientific journals or respected historians.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/raw/master/media/love_running_mockup.png)
+This site will interest anyone with an interest in learning about the major historical events that affected the planet on a global scale.
+
+![Home page background](https://cdn.pixabay.com/photo/2017/02/27/22/16/armageddon-2104385_960_720.jpg)
 
 ## Features 
 
