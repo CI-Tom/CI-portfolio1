@@ -11,6 +11,7 @@ body {
     font-weight: 400;
     background-image: url(../images/armageddon-2104385.jpg);
     background-size: 100%;
+    color: #fafafa;
 }
 
 /* Headings */
@@ -23,6 +24,7 @@ body {
     letter-spacing: 2px;
     color: goldenrod;
     background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
 }
 
 .no-underline {
@@ -32,8 +34,26 @@ body {
 /* Navigation Links */
 
 #menu {
+    
     font-size: 110%;
     letter-spacing: 2px;
     list-style-type: none;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 24px;
+    background-color: black;
+    padding: 5px 20px;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #fafafa;
+}
+
+.active {
+    border-bottom: 1px solid #fafafa;
 }
