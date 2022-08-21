@@ -116,8 +116,8 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The image used for the home page background is from https://pixabay.com/illustrations/armageddon-apocalypse-earth-2104385/
+- The icons used in the header are from https://fontawesome.com/icons/landmark?s=solid
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
